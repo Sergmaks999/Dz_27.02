@@ -1,0 +1,14 @@
+C:\Users\Top\source\repos\Ingredient\bin\Debug\net8.0\Ingredient.exe
+C:\Users\Top\source\repos\Ingredient\bin\Debug\net8.0\Ingredient.deps.json
+C:\Users\Top\source\repos\Ingredient\bin\Debug\net8.0\Ingredient.runtimeconfig.json
+C:\Users\Top\source\repos\Ingredient\bin\Debug\net8.0\Ingredient.dll
+C:\Users\Top\source\repos\Ingredient\bin\Debug\net8.0\Ingredient.pdb
+C:\Users\Top\source\repos\Ingredient\obj\Debug\net8.0\Ingredient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\source\repos\Ingredient\obj\Debug\net8.0\Ingredient.AssemblyInfoInputs.cache
+C:\Users\Top\source\repos\Ingredient\obj\Debug\net8.0\Ingredient.AssemblyInfo.cs
+C:\Users\Top\source\repos\Ingredient\obj\Debug\net8.0\Ingredient.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\Ingredient\obj\Debug\net8.0\Ingredient.dll
+C:\Users\Top\source\repos\Ingredient\obj\Debug\net8.0\refint\Ingredient.dll
+C:\Users\Top\source\repos\Ingredient\obj\Debug\net8.0\Ingredient.pdb
+C:\Users\Top\source\repos\Ingredient\obj\Debug\net8.0\Ingredient.genruntimeconfig.cache
+C:\Users\Top\source\repos\Ingredient\obj\Debug\net8.0\ref\Ingredient.dll
