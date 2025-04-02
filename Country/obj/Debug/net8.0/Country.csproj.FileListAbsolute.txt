@@ -1,0 +1,14 @@
+C:\Users\Top\source\repos\Country\bin\Debug\net8.0\Country.exe
+C:\Users\Top\source\repos\Country\bin\Debug\net8.0\Country.deps.json
+C:\Users\Top\source\repos\Country\bin\Debug\net8.0\Country.runtimeconfig.json
+C:\Users\Top\source\repos\Country\bin\Debug\net8.0\Country.dll
+C:\Users\Top\source\repos\Country\bin\Debug\net8.0\Country.pdb
+C:\Users\Top\source\repos\Country\obj\Debug\net8.0\Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\source\repos\Country\obj\Debug\net8.0\Country.AssemblyInfoInputs.cache
+C:\Users\Top\source\repos\Country\obj\Debug\net8.0\Country.AssemblyInfo.cs
+C:\Users\Top\source\repos\Country\obj\Debug\net8.0\Country.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\Country\obj\Debug\net8.0\Country.dll
+C:\Users\Top\source\repos\Country\obj\Debug\net8.0\refint\Country.dll
+C:\Users\Top\source\repos\Country\obj\Debug\net8.0\Country.pdb
+C:\Users\Top\source\repos\Country\obj\Debug\net8.0\Country.genruntimeconfig.cache
+C:\Users\Top\source\repos\Country\obj\Debug\net8.0\ref\Country.dll
