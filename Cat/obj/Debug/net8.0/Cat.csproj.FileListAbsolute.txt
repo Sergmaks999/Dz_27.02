@@ -1,0 +1,14 @@
+C:\Users\Top\source\repos\Cat\bin\Debug\net8.0\Cat.exe
+C:\Users\Top\source\repos\Cat\bin\Debug\net8.0\Cat.deps.json
+C:\Users\Top\source\repos\Cat\bin\Debug\net8.0\Cat.runtimeconfig.json
+C:\Users\Top\source\repos\Cat\bin\Debug\net8.0\Cat.dll
+C:\Users\Top\source\repos\Cat\bin\Debug\net8.0\Cat.pdb
+C:\Users\Top\source\repos\Cat\obj\Debug\net8.0\Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\source\repos\Cat\obj\Debug\net8.0\Cat.AssemblyInfoInputs.cache
+C:\Users\Top\source\repos\Cat\obj\Debug\net8.0\Cat.AssemblyInfo.cs
+C:\Users\Top\source\repos\Cat\obj\Debug\net8.0\Cat.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\Cat\obj\Debug\net8.0\Cat.dll
+C:\Users\Top\source\repos\Cat\obj\Debug\net8.0\refint\Cat.dll
+C:\Users\Top\source\repos\Cat\obj\Debug\net8.0\Cat.pdb
+C:\Users\Top\source\repos\Cat\obj\Debug\net8.0\Cat.genruntimeconfig.cache
+C:\Users\Top\source\repos\Cat\obj\Debug\net8.0\ref\Cat.dll
