@@ -1,0 +1,14 @@
+C:\Users\Top\source\repos\Deposit\bin\Debug\net8.0\Deposit.exe
+C:\Users\Top\source\repos\Deposit\bin\Debug\net8.0\Deposit.deps.json
+C:\Users\Top\source\repos\Deposit\bin\Debug\net8.0\Deposit.runtimeconfig.json
+C:\Users\Top\source\repos\Deposit\bin\Debug\net8.0\Deposit.dll
+C:\Users\Top\source\repos\Deposit\bin\Debug\net8.0\Deposit.pdb
+C:\Users\Top\source\repos\Deposit\obj\Debug\net8.0\Deposit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\source\repos\Deposit\obj\Debug\net8.0\Deposit.AssemblyInfoInputs.cache
+C:\Users\Top\source\repos\Deposit\obj\Debug\net8.0\Deposit.AssemblyInfo.cs
+C:\Users\Top\source\repos\Deposit\obj\Debug\net8.0\Deposit.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\Deposit\obj\Debug\net8.0\Deposit.dll
+C:\Users\Top\source\repos\Deposit\obj\Debug\net8.0\refint\Deposit.dll
+C:\Users\Top\source\repos\Deposit\obj\Debug\net8.0\Deposit.pdb
+C:\Users\Top\source\repos\Deposit\obj\Debug\net8.0\Deposit.genruntimeconfig.cache
+C:\Users\Top\source\repos\Deposit\obj\Debug\net8.0\ref\Deposit.dll
