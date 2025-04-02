@@ -1,0 +1,14 @@
+C:\Users\Top\source\repos\Abiturient\bin\Debug\net8.0\Abiturient.exe
+C:\Users\Top\source\repos\Abiturient\bin\Debug\net8.0\Abiturient.deps.json
+C:\Users\Top\source\repos\Abiturient\bin\Debug\net8.0\Abiturient.runtimeconfig.json
+C:\Users\Top\source\repos\Abiturient\bin\Debug\net8.0\Abiturient.dll
+C:\Users\Top\source\repos\Abiturient\bin\Debug\net8.0\Abiturient.pdb
+C:\Users\Top\source\repos\Abiturient\obj\Debug\net8.0\Abiturient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\source\repos\Abiturient\obj\Debug\net8.0\Abiturient.AssemblyInfoInputs.cache
+C:\Users\Top\source\repos\Abiturient\obj\Debug\net8.0\Abiturient.AssemblyInfo.cs
+C:\Users\Top\source\repos\Abiturient\obj\Debug\net8.0\Abiturient.csproj.CoreCompileInputs.cache
+C:\Users\Top\source\repos\Abiturient\obj\Debug\net8.0\Abiturient.dll
+C:\Users\Top\source\repos\Abiturient\obj\Debug\net8.0\refint\Abiturient.dll
+C:\Users\Top\source\repos\Abiturient\obj\Debug\net8.0\Abiturient.pdb
+C:\Users\Top\source\repos\Abiturient\obj\Debug\net8.0\Abiturient.genruntimeconfig.cache
+C:\Users\Top\source\repos\Abiturient\obj\Debug\net8.0\ref\Abiturient.dll
